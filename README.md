@@ -13,8 +13,8 @@ Predicting price ranges for King County houses based on several features ([view 
 - [Presentation](https://docs.google.com/presentation/d/1X-uxuEOhixNAFbdQseF64mH-vPyc6Cc4D83gvNxgSvs/edit#slide=id.gc6f980f91_0_5)
 - Database [PgAdmin]
 - Machine Learning Model
-  - Supervised ML
-  - Unsupervised ML
+  - [Supervised ML](https://github.com/AfroQ/King_County_House_Price_Analysis/blob/main/supervised_ml.ipynb)
+  - [Unsupervised ML](https://github.com/AfroQ/King_County_House_Price_Analysis/blob/main/unsupervised_ml.ipynb)
 
 - [Interactive Dashboard](https://public.tableau.com/app/profile/faith8166/viz/KingCountyHousingPriceAnalysis/KingCountyHousePricesDashboard?publish=yes)
 
