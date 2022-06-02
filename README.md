@@ -2,18 +2,29 @@
 
 ## Project Overview
 
-Predicting price ranges for King County houses based on criteria.
+Predicting price ranges for King County houses based on several features ([view here](https://github.com/AfroQ/King_County_House_Price_Analysis/blob/main/data_description.txt)).
 
 *Housing prices based on 2014-15
 
-##### Deliverables
+##### Deliverables 
 
-- Presentation
-- Database
+*(Click on the links)*
+
+- [Presentation](https://docs.google.com/presentation/d/1X-uxuEOhixNAFbdQseF64mH-vPyc6Cc4D83gvNxgSvs/edit#slide=id.gc6f980f91_0_5)
+- Database [PgAdmin]
 - Machine Learning Model
-- Interactive Dashboard
+  - Supervised ML
+  - Unsupervised ML
+
+- [Interactive Dashboard](https://public.tableau.com/app/profile/faith8166/viz/KingCountyHousingPriceAnalysis/KingCountyHousePricesDashboard?publish=yes)
 
 ## Process
+
+[More in the presentation]
+
+Ensemble learning builds on the idea that two is better than one.
+
+- XGBoost and RandomForest performed best
 
 ##### Resources
 
